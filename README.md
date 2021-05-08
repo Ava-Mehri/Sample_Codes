@@ -54,3 +54,18 @@ GitHub: https://github.com/Ava-Mehri/Sample_Codes/blob/main/MDP.ipynb
     * [toy.txt](https://github.com/Ava-Mehri/Sample_Codes/blob/main/toy.txt)
     * [electoral.txt](https://github.com/Ava-Mehri/Sample_Codes/blob/main/electoral.txt)
     * [purple.txt](https://github.com/Ava-Mehri/Sample_Codes/blob/main/purple.txt)
+## cpath.ipynb
+GitHub: https://github.com/Ava-Mehri/Sample_Codes/blob/main/cpath.ipynb
+* Determines the fastest way to get to a destination within a certain budget in a graph
+* The test input to run this code is [g2.g](https://github.com/Ava-Mehri/Sample_Codes/blob/main/g2.g)
+* Works for any other graph described in the same way as g2.g
+## NoiseCanceller.ipynb
+GitHub: https://github.com/Ava-Mehri/Sample_Codes/blob/main/NoiseCanceller.ipynb
+* _**Not complete yet, will be updated**_
+* .m version of this program works well but I haven't been successful to debug this file, still working on it
+* It is supposed to remove a Gaussian noise from an audio signal
+## bug_1.py and bug_2.py
+* Bug1 GitHub: https://github.com/Ava-Mehri/Sample_Codes/blob/main/bug_1_.py
+* Bug2 Github: https://github.com/Ava-Mehri/Sample_Codes/blob/main/bug_2_.py
+* These programs need ROS(Robotic Operation System) and Gazebo simulation environment
+* I haven't add instructions for running these programs here because they need an entire separate instruction manual and separate repository.
